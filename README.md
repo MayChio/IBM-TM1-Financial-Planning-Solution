@@ -64,7 +64,7 @@ The multidimensional model includes dimensions such as:
 
 ## Rules & Feeders
 
-TM1 Rules were designed to support calculations such as:
+TM1 Rules were designed to support business calculations including:
 
 - Allocation logic
 - Salary calculations
@@ -87,17 +87,30 @@ TurboIntegrator processes were developed to automate:
 - Cube exports for reporting
 - Scheduled processing through chores
 
+The automation process also included error handling, logging, checkpoints, and audit controls.
+
 ## Planning Analytics Dashboard
 
 The following concept dashboard illustrates how the financial planning model can be presented through an executive analytics experience.
 
-![Financial Planning Dashboard](imagenMproject.png)
+![Financial Planning Dashboard](imageMproject.png)
 
-> This dashboard is a portfolio visualization created to demonstrate the analytical presentation of the TM1 financial planning solution.
+> **Portfolio Visualization:** This dashboard was created to demonstrate the analytical presentation of the TM1 financial planning solution.
+
+## Planning Analytics Workspace
+
+The reporting solution includes analytical components such as:
+
+- Executive summary reports
+- Trend analysis
+- Variance analysis
+- Budget and Forecast input forms
+- KPI visualization
+- Conditional formatting
 
 ## Testing & Validation
 
-The model was validated through:
+The TM1 model was validated through:
 
 - General Ledger reconciliation
 - Scenario testing
@@ -105,7 +118,7 @@ The model was validated through:
 - Performance testing
 - Stakeholder validation
 
-## Project Result
+## Project Results
 
 The solution reduced reporting time by approximately **30%**, improved forecasting accuracy, and enabled business users to perform planning activities faster and more reliably.
 
@@ -120,7 +133,7 @@ The solution reduced reporting time by approximately **30%**, improved forecasti
 
 ## Documentation
 
-Additional project documentation:
+Additional project documentation is available in this repository:
 
 - [Business Case](docs/01-business-case.md)
 
