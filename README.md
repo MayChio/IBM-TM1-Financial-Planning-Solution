@@ -41,7 +41,11 @@ MDX / Views
     ▼
 PAW / Cognos Analytics
 ```
+## Planning Analytics Dashboard
 
+Concept dashboard created to illustrate the executive analytics experience of the TM1 financial planning solution.
+
+![Financial Planning Dashboard](imagenMproject.png)
 ## Technologies
 
 - IBM Planning Analytics (TM1)
